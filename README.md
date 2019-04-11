@@ -2,11 +2,27 @@
 Common maps that can be used by all IM3 participants
 
 # Available maps
+Click maps to be directed to download, or clone repository to download all.
 
 ## Population per square kilometer; interconnection, US state, and PCA boundaries
+Quantile was the classification method used to bin the 10 classes represented in the map.
+
 ![](https://github.com/IMMM-SFA/im3_maps/blob/master/maps/conus_1km2-popdensity-2000-oneill_with-iconn-ba-state_nolabels.jpg)
 
 ## Population per square kilometer; interconnection, US state, and PCA boundaries - with PCA labels
+Quantile was the classification method used to bin the 10 classes represented in the map.
+
+![](https://github.com/IMMM-SFA/im3_maps/blob/master/maps/conus_1km2-popdensity-2000-oneill_with-iconn-ba-state_pca-labels.jpg)
+
+## Population per PCA; interconnection, US state, and PCA boundaries
+Population at square kilometer resolution was summed using [ArcGIS Zonal Statistics](http://desktop.arcgis.com/en/arcmap/10.3/tools/spatial-analyst-toolbox/h-how-zonal-statistics-works.htm) to the PCA zones.  Natural breaks was the classification method used to bin the 10 classes represented in the map.
+
+![](https://github.com/IMMM-SFA/im3_maps/blob/master/maps/conus_reeds-pca_popdensity-2000-oneill_with-iconn-ba-state_nolabels.jpg)
+
+## Population per PCA; interconnection, US state, and PCA boundaries - with PCA labels
+Population at square kilometer resolution was summed using [ArcGIS Zonal Statistics](http://desktop.arcgis.com/en/arcmap/10.3/tools/spatial-analyst-toolbox/h-how-zonal-statistics-works.htm) to the PCA zones.  Natural breaks was the classification method used to bin the 10 classes represented in the map.
+
+![](https://github.com/IMMM-SFA/im3_maps/blob/master/maps/conus_reeds-pca_popdensity-2000-oneill_with-iconn-ba-state_pca-labels.jpg)
 
 # References and metadata
 
