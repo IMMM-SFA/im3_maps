@@ -36,7 +36,7 @@ Jones, B., O’Neill, B.C., 2016. Spatially explicit global population scenarios
 
 This data is internally accessible here:  `/pic/projects/im3/Scenarios/Population/US_1km_projections_170920`
 
-## Bondary data
+## Boundary data
 
 ### ReEDS Balancing Authority Areas (Power Control Areas - PCAs)
 ReEDS regions are accessible for download using the [NREL Wind Prospector](https://maps.nrel.gov/wind-prospector/?visible=wind_3tier_site_metadata#/?aL=iBkrSK%255Bv%255D%3Dt&bL=groad&cE=0&lR=0&mC=36.70365959719456%2C-94.8779296875&zL=5).  Regions were spatially dissolved (grouped) by PCA.
