@@ -4,7 +4,7 @@ Common maps that can be used by all IM3 participants
 # Available maps
 
 ## Population per square kilometer; interconnection, US state, and PCA boundaries
-(https://github.com/IMMM-SFA/im3_maps/blob/master/maps/conus_1km2-popdensity-2000-oneill_with-iconn-ba-state_nolabels.jpg)
+![](https://github.com/IMMM-SFA/im3_maps/blob/master/maps/conus_1km2-popdensity-2000-oneill_with-iconn-ba-state_nolabels.jpg)
 
 ## Population per square kilometer; interconnection, US state, and PCA boundaries - with PCA labels
 
